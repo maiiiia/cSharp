@@ -1,0 +1,14 @@
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTen\bin\Debug\net7.0\LessonTen.exe
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTen\bin\Debug\net7.0\LessonTen.deps.json
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTen\bin\Debug\net7.0\LessonTen.runtimeconfig.json
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTen\bin\Debug\net7.0\LessonTen.dll
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTen\bin\Debug\net7.0\LessonTen.pdb
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTen\obj\Debug\net7.0\LessonTen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTen\obj\Debug\net7.0\LessonTen.AssemblyInfoInputs.cache
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTen\obj\Debug\net7.0\LessonTen.AssemblyInfo.cs
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTen\obj\Debug\net7.0\LessonTen.csproj.CoreCompileInputs.cache
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTen\obj\Debug\net7.0\LessonTen.dll
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTen\obj\Debug\net7.0\refint\LessonTen.dll
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTen\obj\Debug\net7.0\LessonTen.pdb
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTen\obj\Debug\net7.0\LessonTen.genruntimeconfig.cache
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTen\obj\Debug\net7.0\ref\LessonTen.dll

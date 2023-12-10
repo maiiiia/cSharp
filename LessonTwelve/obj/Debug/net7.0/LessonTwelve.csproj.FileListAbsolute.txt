@@ -1,0 +1,14 @@
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTwelve\bin\Debug\net7.0\LessonTwelve.exe
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTwelve\bin\Debug\net7.0\LessonTwelve.deps.json
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTwelve\bin\Debug\net7.0\LessonTwelve.runtimeconfig.json
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTwelve\bin\Debug\net7.0\LessonTwelve.dll
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTwelve\bin\Debug\net7.0\LessonTwelve.pdb
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTwelve\obj\Debug\net7.0\LessonTwelve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTwelve\obj\Debug\net7.0\LessonTwelve.AssemblyInfoInputs.cache
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTwelve\obj\Debug\net7.0\LessonTwelve.AssemblyInfo.cs
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTwelve\obj\Debug\net7.0\LessonTwelve.csproj.CoreCompileInputs.cache
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTwelve\obj\Debug\net7.0\LessonTwelve.dll
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTwelve\obj\Debug\net7.0\refint\LessonTwelve.dll
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTwelve\obj\Debug\net7.0\LessonTwelve.pdb
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTwelve\obj\Debug\net7.0\LessonTwelve.genruntimeconfig.cache
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonTwelve\obj\Debug\net7.0\ref\LessonTwelve.dll

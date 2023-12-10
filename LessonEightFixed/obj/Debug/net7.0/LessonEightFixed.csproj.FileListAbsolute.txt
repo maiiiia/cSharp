@@ -1,0 +1,14 @@
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonEightFixed\bin\Debug\net7.0\LessonEightFixed.exe
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonEightFixed\bin\Debug\net7.0\LessonEightFixed.deps.json
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonEightFixed\bin\Debug\net7.0\LessonEightFixed.runtimeconfig.json
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonEightFixed\bin\Debug\net7.0\LessonEightFixed.dll
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonEightFixed\bin\Debug\net7.0\LessonEightFixed.pdb
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonEightFixed\obj\Debug\net7.0\LessonEightFixed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonEightFixed\obj\Debug\net7.0\LessonEightFixed.AssemblyInfoInputs.cache
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonEightFixed\obj\Debug\net7.0\LessonEightFixed.AssemblyInfo.cs
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonEightFixed\obj\Debug\net7.0\LessonEightFixed.csproj.CoreCompileInputs.cache
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonEightFixed\obj\Debug\net7.0\LessonEightFixed.dll
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonEightFixed\obj\Debug\net7.0\refint\LessonEightFixed.dll
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonEightFixed\obj\Debug\net7.0\LessonEightFixed.pdb
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonEightFixed\obj\Debug\net7.0\LessonEightFixed.genruntimeconfig.cache
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonEightFixed\obj\Debug\net7.0\ref\LessonEightFixed.dll

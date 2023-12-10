@@ -1,0 +1,14 @@
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonFourFixed\bin\Debug\net7.0\LessonFourFixed.exe
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonFourFixed\bin\Debug\net7.0\LessonFourFixed.deps.json
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonFourFixed\bin\Debug\net7.0\LessonFourFixed.runtimeconfig.json
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonFourFixed\bin\Debug\net7.0\LessonFourFixed.dll
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonFourFixed\bin\Debug\net7.0\LessonFourFixed.pdb
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonFourFixed\obj\Debug\net7.0\LessonFourFixed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonFourFixed\obj\Debug\net7.0\LessonFourFixed.AssemblyInfoInputs.cache
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonFourFixed\obj\Debug\net7.0\LessonFourFixed.AssemblyInfo.cs
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonFourFixed\obj\Debug\net7.0\LessonFourFixed.csproj.CoreCompileInputs.cache
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonFourFixed\obj\Debug\net7.0\LessonFourFixed.dll
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonFourFixed\obj\Debug\net7.0\refint\LessonFourFixed.dll
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonFourFixed\obj\Debug\net7.0\LessonFourFixed.pdb
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonFourFixed\obj\Debug\net7.0\LessonFourFixed.genruntimeconfig.cache
+C:\Users\1295859\Downloads\thirdYearProgramming\cSharp\LessonFourFixed\obj\Debug\net7.0\ref\LessonFourFixed.dll
